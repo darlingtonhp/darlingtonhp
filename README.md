@@ -2,7 +2,7 @@
 <a href="#"><img width="50%" height="50%" src="https://indoanalytica.com/static/images/data-science-4.gif"></a>
 </p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darlington Hapanamambo</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darlington Hapanamambo</h1>
 <h3 align="center">I'm a passionate Computer Science Graduate.</h3>
 
 ## 🙋‍♂️ About Me
@@ -13,7 +13,7 @@
 
 - 👯 I am constantly seeking new opportunities to expand my knowledge and expertise in mobile application development.**
 
-- 👨‍💻 Explore all of my projects at **[My Github Account](https://github.com/darlingtonhp)**
+- 👨‍💻 Explore all of my projects on **[my portfolio](https://github.com/darlingtonhp)**
 
 - 📫 How to reach me **hapanamambod@africau.edu**
 
