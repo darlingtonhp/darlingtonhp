@@ -13,7 +13,7 @@
 
 - 👯 I am constantly seeking new opportunities to expand my knowledge and expertise in Mobile and Web Applications development.**
 
-- 👨‍💻 Explore all of my projects on **[my portfolio](https://github.com/darlingtonhp)**
+- 👨‍💻 Explore all of my projects on **[Github](https://github.com/darlingtonhp)**
 
 - 📫 How to reach me **hapanamambod@africau.edu**
 
@@ -55,7 +55,7 @@
 <a href = "https://x.com/_darlingtonhp"><img src="https://img.icons8.com/?size=48&id=13963&format=png"/></a>
 </p>
  
-- Check out **[My Portfolio Website](https://darlingtonhp.github.io/darlingtonhp.io/)**
+- Check out **[My Awesome Site](https://darlingtonhp.github.io/darlingtonhp.io/)**
 
 
 
