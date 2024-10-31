@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darlington Hapanamambo</h1>
-<h3 align="center">I'm a passionate Computer Science Graduate.</h3>
+<h3 align="center">I'm a passionate Software Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I have a strong interest in mobile application development**
+- 🔭 I have a strong interest in Mobile and Web Applications development**
 
 - 🌱 Coding is not just a career choice for me it is a true passion.**
 
-- 👯 I am constantly seeking new opportunities to expand my knowledge and expertise in mobile application development.**
+- 👯 I am constantly seeking new opportunities to expand my knowledge and expertise in Mobile and Web Applications development.**
 
 - 👨‍💻 Explore all of my projects on **[my portfolio](https://github.com/darlingtonhp)**
 
@@ -47,12 +47,12 @@
 
 ## Connect with me on social media:
 <p align="left">
-<a href = "https://www.linkedin.com/in/darlington-hapanamambo-049a97170/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/darlingtonhp"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "hapanamambod@africau.edu"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href = "https://stackoverflow.com/users/14339632/darlingtonhp"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 <a href = "https://www.facebook.com/darlhp/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/darlingtonhp/"><img src="https://img.icons8.com/?size=48&id=32323&format=png"/></a>
-<a href = "https://twitter.com/_darlingtonhp"><img src="https://img.icons8.com/?size=48&id=13963&format=png"/></a>
+<a href = "https://x.com/_darlingtonhp"><img src="https://img.icons8.com/?size=48&id=13963&format=png"/></a>
 </p>
  
 - Check out **[My Portfolio Website](https://darlingtonhp.github.io/darlingtonhp.io/)**
