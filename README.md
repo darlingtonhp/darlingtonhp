@@ -1,5 +1,5 @@
 <p align="center">
-<iframe src="https://drive.google.com/file/d/1N8eACrf0Yst-wEXGU5K9-tCYD98xCu0o/preview" width="50%" height="50%" allow="autoplay"></iframe>
+   <a href="#"><img src="https://drive.google.com/uc?id=1N8eACrf0Yst-wEXGU5K9-tCYD98xCu0o&export=view" width="50%" height="50%"></a>
 </p>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darlington Hapanamambo</h1>
