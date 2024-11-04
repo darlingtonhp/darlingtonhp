@@ -2,60 +2,64 @@
    <a href="#"><img src="https://drive.google.com/uc?id=1N8eACrf0Yst-wEXGU5K9-tCYD98xCu0o&export=view" width="50%" height="50%"></a>
 </p>
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darlington Hapanamambo</h1>
-<h3 align="center">I'm a passionate Software Developer.</h3>
+<h1 align="center">Hello, World! 👋 I'm Darlington Hapanamambo</h1>
+<h3 align="center">✨ Enthusiastic Software Developer | Mobile & Web Innovator 🚀</h3>
 
-## 🙋‍♂️ About Me
+---
 
-- 🔭 I have a strong interest in Mobile and Web Applications development**
+## 🧑‍💻 About Me
 
-- 🌱 Coding is not just a career choice for me it is a true passion.**
+- 🎓 **Curious Learner** - I’m constantly diving into the latest tech trends and innovations in Mobile and Web Development.
+- 💡 **Passionate Problem Solver** - I love tackling complex challenges and creating intuitive, user-friendly solutions.
+- 💼 **Dedicated Developer** - Explore all my projects and repositories on **[GitHub](https://github.com/darlingtonhp)** to see my work in action.
+- 📬 **Reach Out to Me** - Contact me at **hapanamambod@africau.edu** for collaborations, opportunities, or just to say hello!
+- ⚽️ **Fun Fact** - Beyond coding, I’m an avid soccer fan and enjoy spirited discussions about the latest matches and player stats!
 
-- 👯 I am constantly seeking new opportunities to expand my knowledge and expertise in Mobile and Web Applications development.**
+---
 
-- 👨‍💻 Explore all of my projects on **[Github](https://github.com/darlingtonhp)**
+## 🔧 Tech Stack & Tools
 
-- 📫 How to reach me **hapanamambod@africau.edu**
-
-- ⚡ Did you know? **I find joy in solving complex problems and turning ideas into functional and user-friendly applications.
-     Beyond my technical skills, I have a diverse range of interests. Soccer has always being a big part of my life, and I 
-     love watching matches and engaging in conversations about the sport**
-
-
-## 🚀 Frameworks,tools and Languages:
-
-<p align="left">
-    <a href="https://code.visualstudio.com/"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_vscode_icon_130084.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-48/free-flutter-2038877-1720090.png?f=avif&w=256"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<p align="center">
+    <a href="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_vscode_icon_130084.png" title="VS Code" width="40px" style="padding:10px;"/></a>
+    <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-48/free-flutter-2038877-1720090.png" title="Flutter" width="40px" style="padding:10px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" width="40px" style="padding:10px;"/></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#" width="40px" style="padding:10px;"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" width="40px" style="padding:10px;"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" width="40px" style="padding:10px;"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" title="MySQL" width="40px" style="padding:10px;"/></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" width="40px" style="padding:10px;"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" title="Git" width="40px" style="padding:10px;"/></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
     <a href="https://github.com/darlingtonhp/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Check out my GitHub Streak Stats" alt="Darlington's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darlingtonhp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## Connect with me on social media:
-<p align="left">
-<a href = "www.linkedin.com/in/darlingtonhp"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "hapanamambod@africau.edu"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href = "https://stackoverflow.com/users/14339632/darlingtonhp"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-<a href = "https://www.facebook.com/darlhp/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://www.instagram.com/darlingtonhp/"><img src="https://img.icons8.com/?size=48&id=32323&format=png"/></a>
-<a href = "https://x.com/_darlingtonhp"><img src="https://img.icons8.com/?size=48&id=13963&format=png"/></a>
+---
+
+## 📫 Connect with Me!
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/darlingtonhp"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn"/></a>
+    <a href="mailto:hapanamambod@africau.edu"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" title="Email"/></a>
+    <a href="https://stackoverflow.com/users/14339632/darlingtonhp"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" title="Stack Overflow"/></a>
+    <a href="https://www.facebook.com/darlhp/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" title="Facebook"/></a>
+    <a href="https://www.instagram.com/darlingtonhp/"><img src="https://img.icons8.com/?size=48&id=32323&format=png" title="Instagram"/></a>
+    <a href="https://x.com/_darlingtonhp"><img src="https://img.icons8.com/?size=48&id=13963&format=png" title="X (Twitter)"/></a>
 </p>
- 
-- Check out **[My Awesome Site](https://darlingtonhp.github.io/darlingtonhp.io/)**
 
+---
 
+## 🌍 Explore My World
 
+- 🌐 **My Portfolio** - Visit **[My Awesome Site](https://darlingtonhp.github.io/darlingtonhp.io/)** for a deeper dive into my projects, blog, and more.
+- 📅 **Current Focus** - Expanding my expertise in backend development with Node.js and improving my front-end skills with React.
+- 🎯 **Future Goals** - To contribute to open-source projects, build full-stack applications, and develop mobile solutions that have real-world impact.
+
+Thanks for stopping by! 😊 Feel free to connect, collaborate, or just chat tech with me!
