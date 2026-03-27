@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="#"><img src="https://drive.google.com/uc?export=view&id=1Q46xD8vZrNKyW1iah2fCe4oQ8QwWSgB7" width="50%" height="50%"></a>
+   <a href="#"><img src="https://raw.githubusercontent.com/darlingtonhp/assets/main/Dee.gif" width="50%" height="50%"></a>
 </p>
 
 <h1 align="center">Hello, World! 👋 I'm Darlington Hapanamambo</h1>
